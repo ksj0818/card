@@ -17,4 +17,4 @@ function focusElement(event) {
       inputElements[currentIndex - 1].focus()
     }
   } 
-}
+} 
